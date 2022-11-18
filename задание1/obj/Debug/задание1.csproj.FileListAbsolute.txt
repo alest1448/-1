@@ -1,0 +1,8 @@
+C:\Users\Абоба\source\repos\задание1\задание1\bin\Debug\задание1.exe.config
+C:\Users\Абоба\source\repos\задание1\задание1\bin\Debug\задание1.exe
+C:\Users\Абоба\source\repos\задание1\задание1\bin\Debug\задание1.pdb
+C:\Users\Абоба\source\repos\задание1\задание1\obj\Debug\задание1.csproj.AssemblyReference.cache
+C:\Users\Абоба\source\repos\задание1\задание1\obj\Debug\задание1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Абоба\source\repos\задание1\задание1\obj\Debug\задание1.csproj.CoreCompileInputs.cache
+C:\Users\Абоба\source\repos\задание1\задание1\obj\Debug\задание1.exe
+C:\Users\Абоба\source\repos\задание1\задание1\obj\Debug\задание1.pdb
